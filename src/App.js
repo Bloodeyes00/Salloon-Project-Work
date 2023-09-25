@@ -47,7 +47,7 @@ import AOS from "aos";
 import saloonsbycategory from "./pages/saloonsbycategory";
 import { withRouter } from "react-router-dom/cjs/react-router-dom.min";
 import Favourite from "./pages/Favourite";
-import {gapi} from "gapi-script"
+import { gapi } from "gapi-script"
 // import "aos/dist/aos.css";
 
 // AOS.init({
